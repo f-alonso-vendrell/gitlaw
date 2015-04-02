@@ -22,9 +22,13 @@ and see which conventions should be made.
 
 - Law format: sure it must be text, but certain (low) foratting is needed, how can that be done. I tried simple html with line
 separation among html and doc, but when seeing it in github you see html and when checking differences you might be distracted
-with that too.
+with that too. Markdown with some convention might be used (only heading, links and bold allows).
 
 - Coment format: Which languages (I started spanglish, maybe should be native - e.g. for spanish law, spanish, then english)
 What other usefull information can the comment bring? area of influence (region and time?)
+
+
+
+
 
 
